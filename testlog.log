@@ -1,0 +1,18 @@
+INFO: Checking add-on plugin.audio.mixcloud
+INFO: Created by jackyNIX
+INFO: Addon id matches folder name
+INFO: plugin.audio.mixcloud addon also exists in matrix branch but with update compatible version: 3.0.2
+INFO: plugin.audio.mixcloud addon also exists in leia branch but with update compatible version: 2.5.2
+INFO: plugin.audio.mixcloud addon also exists in krypton branch but with update compatible version: 2.5.2
+INFO: plugin.audio.mixcloud addon also exists in jarvis branch but with update compatible version: 2.5.2
+INFO: plugin.audio.mixcloud addon also exists in isengard branch but with update compatible version: 2.5.2
+INFO: plugin.audio.mixcloud addon also exists in helix branch but with update compatible version: 2.5.2
+INFO: plugin.audio.mixcloud addon also exists in gotham branch but with update compatible version: 2.5.2
+INFO: Valid XML file found
+INFO: Image icon exists
+INFO: icon dimensions are fine 512x512
+INFO: Image fanart exists
+INFO: fanart dimensions are fine 1280x720
+INFO: fanart file size is fine 39KB
+INFO: PO files are valid
+INFO: We found no problems and no warnings, please enjoy your day.
